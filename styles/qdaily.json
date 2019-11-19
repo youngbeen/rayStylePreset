@@ -1,3 +1,7 @@
-{
-  "style": ".test{display: none;}"
-}
+[
+  {
+    "type": "replace",
+    "target": "<img src='http://img.qdaily.com/uploads/20160725026790Msgaji5TilWhj7z4.jpg-w600' alt=''>",
+    "with": ""
+  }
+]
